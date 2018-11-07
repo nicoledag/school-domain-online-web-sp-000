@@ -24,6 +24,4 @@ end
 
 def grade(n)
   @roster[n]
-
-  binding.pry
 end
