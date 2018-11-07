@@ -22,9 +22,8 @@ class School
 end
 
 
-def grade(grade)
-  @roster[grade]
-
+def grade
+  
 end
 
 def sort
