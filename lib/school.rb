@@ -23,7 +23,7 @@ end
 
 
 def grade
-
+@rooster[grade]
 
 end
 
