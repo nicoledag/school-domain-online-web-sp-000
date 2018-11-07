@@ -24,7 +24,7 @@ class School
   end
 
   def sort
-   @roster.hash.sort
+   @roster.sort
   end
 
 end
