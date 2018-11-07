@@ -3,7 +3,7 @@ require 'pry'
 class School
 
   attr_accessor :grade
-  attr_reader :name, :roster, 
+  attr_reader :name, :roster,
 
   def initialize(name)
     @name = name
@@ -25,4 +25,3 @@ end
 def grade(n)
   @roster[n]
 end
-
