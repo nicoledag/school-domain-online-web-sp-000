@@ -22,8 +22,8 @@ class School
 end
 
 
-def grade
-@rooster[:grade]
+def grade(grade)
+@rooster[grade]
 
 end
 
