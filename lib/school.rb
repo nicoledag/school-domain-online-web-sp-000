@@ -23,7 +23,7 @@ end
 
 
 def grade(grade)
-@name.roster[grade]
+  @roster[grade]
 
 end
 
