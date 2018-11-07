@@ -16,7 +16,6 @@ class School
 
        else
          @roster[grade] = [name]
-binding.pry
       end
     end
 
