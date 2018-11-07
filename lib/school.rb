@@ -23,7 +23,7 @@ end
 
 
 def grade(grade)
-@rooster[grade]
+@roster[grade]
 
 end
 
