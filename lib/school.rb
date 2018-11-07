@@ -19,8 +19,6 @@ class School
       end
     end
 
-end
-
   def grade(n)
    @roster[n]
   end
