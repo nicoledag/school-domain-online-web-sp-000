@@ -24,7 +24,6 @@ end
 
 def grade(n)
   @roster[n]
-
 end
 
 def sort
